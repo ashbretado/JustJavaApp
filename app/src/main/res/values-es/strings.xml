@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">Ashley Sólo Café</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings">Coberturas</string>
+    <string name="type_name">Escribe Tu Nombre Aqui: </string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="caramel">Caramelo</string>
+    <string name="order_summary">Resumen De Tu Orden</string>
+    <string name="order">Ordenar</string>
+    <string name="name">Nombre: </string>
+</resources>

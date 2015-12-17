@@ -1,3 +1,10 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".MainActivity" >
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -14,14 +21,58 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:background="#4D3930"
-        android:src="@drawable/javalogo" />
+        android:background="#ffffff"
+        android:src="@drawable/coffeeapp" />
+
+    <EditText
+        android:id="@+id/name_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="string/album_description"
+        android:inputType="textMultiLine"
+        android:text="@string/type_name" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:text="Quantity"
+        android:text="@string/toppings"
+        android:textAllCaps="true"
+        android:textColor="@android:color/black" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/whipped_cream"
+        android:id="@+id/whipped_cream_checkbox"
+        android:textSize="16sp"
+        android:onClick="whippedCreamChecked"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/chocolate"
+        android:id="@+id/chocolate_checkbox"
+        android:textSize="16sp"
+        android:onClick="chocolateChecked"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/caramel"
+        android:id="@+id/caramel_checkbox"
+        android:textSize="16sp"
+        android:onClick="caramelChecked"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/quantity"
         android:textAllCaps="true"
         android:textColor="@android:color/black" />
 
@@ -64,7 +115,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:text="Order Summary"
+        android:text="@string/order_summary"
         android:textAllCaps="true"
         android:textColor="@android:color/black"
         android:textSize="16sp" />
@@ -83,6 +134,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:onClick="submitOrder"
-        android:text="Order" />
+        android:text="@string/order" />
 
 </LinearLayout>
+</ScrollView>

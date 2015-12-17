@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ashley Juste Java</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="quantity">Quantité</string>
+    <string name="toppings">Garnitures</string>
+    <string name="type_name">Tapez Votre Nom Ici: </string>
+    <string name="whipped_cream">Crème Fouettée</string>
+    <string name="chocolate">Le Chocolat</string>
+    <string name="caramel">Caramel</string>
+    <string name="order_summary">Récapitulatif de la commande</string>
+    <string name="order">Commande</string>
+    <string name="name">Nom : </string>
+</resources>
