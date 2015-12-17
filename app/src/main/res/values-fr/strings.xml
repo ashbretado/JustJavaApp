@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Ashley Juste Java</string>
 
     <string name="action_settings">Paramètres</string>
@@ -11,4 +12,21 @@
     <string name="order_summary">Récapitulatif de la commande</string>
     <string name="order">Commande</string>
     <string name="name">Nom : </string>
+=======
+    <string name="app_name"> Seulement Café</string>
+
+    <string name="action_settings"> Paramètres</string>
+    <string name="quantity">Quantité de cafés</string>
+    <string name="toppings">Garnitures</string>
+    <string name="whipped_cream">Crème Fouettée</string>
+    <string name="order">Commande</string>
+    <string name="name">Tapez votre nom ici</string>
+    <string name="marshmallow"> Guimauve</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="caramel">Caramel</string>
+    <string name="max">Vous ne pouvez pas avoir plus de 15 cafés</string>
+    <string name="min">Vous ne pouvez pas avoir moins de 1 café</string>
+    <string name="cardnumber">Entrez le numéro de carte de crédit ici</string>
+    <string name="expiration">Date d\'expiration</string>
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
 </resources>

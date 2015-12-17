@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Ashley Just Java</string>
 
     <string name="action_settings">Settings</string>
@@ -11,4 +12,22 @@
     <string name="order_summary">Order Summary</string>
     <string name="order">Order</string>
     <string name="name">Name: </string>
+=======
+    <string name="app_name">Just Java</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="name">Type your name here</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="caramel">Caramel</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="toppings">Toppings</string>
+    <string name="quantity">Quantity of coffees</string>
+    <string name="order">Order</string>
+    <string name="max">You cannot have more than 15 coffees</string>
+    <string name="min">You cannot have less than 1 coffee</string>
+    <string name="cardnumber">Enter credit card number here</string>
+    <string name="expiration">Expiration date</string>
+
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
 </resources>

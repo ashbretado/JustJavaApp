@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+=======
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -167,11 +171,19 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+<<<<<<< HEAD
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+=======
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -215,6 +227,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+<<<<<<< HEAD
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
@@ -234,17 +247,49 @@
     <string name="type_name">Type Your Name Here: </string>
     <string name="whipped_cream">Whipped Cream</string>
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+=======
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Just Java</string>
+    <string name="caramel">Caramel</string>
+    <string name="cardnumber">Enter credit card number here</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="expiration">Expiration date</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="max">You cannot have more than 15 coffees</string>
+    <string name="min">You cannot have less than 1 coffee</string>
+    <string name="name">Type your name here</string>
+    <string name="order">Order</string>
+    <string name="quantity">Quantity of coffees</string>
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+<<<<<<< HEAD
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/src/main/res/values/styles.xml -->
+=======
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/src/main/res/values/styles.xml -->
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
+<<<<<<< HEAD
     <!-- From: file:/C:/Users/Student/AndroidStudioProjects/AshleyJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+=======
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1181,6 +1226,18 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+<<<<<<< HEAD
+=======
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="CustomText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#008</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <!-- From: file:/C:/Users/maddog/AndroidStudioProjects/VinsonJustJava/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+>>>>>>> fa850f09802926d316f874e5b3b3c530af911157
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
